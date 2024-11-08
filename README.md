@@ -21,7 +21,7 @@ Android Only!
 3. If you haven't already before, allow installation of apk's from the browser you are using
 4. After finishing installing the apk, open "Spotify Lite" and login with your account
 
-This apk can also be downloaded from https://www.xmanagerapp.com/, you may need to find the correct version for yourself 
+This apk can also be downloaded from https://www.xmanagerapp.com/, you may need to find the correct version for yourself. 
 Normal Spotify Version didn't work for me, the login couldn't go trough
 
 ## Issues:
