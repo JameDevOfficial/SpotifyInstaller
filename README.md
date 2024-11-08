@@ -1,4 +1,4 @@
-Install the better version of spotify from https://github.com/mrpond/BlockTheSpot using this ps1 file. 
+Install the better version of spotify from https://github.com/mrpond/BlockTheSpot using this ps1 file or the mobile android version from xManager.
 - Desktop Version: Install.ps1
 - Mobile Version (Android Only): Spotify Lite Apk
 
