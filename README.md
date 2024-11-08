@@ -1,8 +1,9 @@
 Install the better version of spotify from https://github.com/mrpond/BlockTheSpot using this ps1 file. 
-
+- Desktop Version: Install.ps1
+- Mobile Version (Android Only): Spotify Lite Apk
 
 # **Install**
-1. Execute "command.ps1"
+1. Execute "Install.ps1"
 > [!TIP]
 > Do this by opening the context menu of the file (right click) and pressing "Run with PowerShell"
 ### or
