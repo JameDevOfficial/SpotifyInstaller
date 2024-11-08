@@ -6,7 +6,7 @@ Install the better version of spotify from https://github.com/mrpond/BlockTheSpo
 > [!TIP]
 > Do this by opening the context menu of the file (right click) and pressing "Run with PowerShell"
 ### or
-1. Paste this into PowerShell:
+1. Paste this into PowerShell (No downloads needed):
    
 ``` ps1
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
